@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<moyennes>
+  <moyenne opr="delete" timestamp="2023-04-07 15:53:37.430">
+    <code_eleve>ELE1</code_eleve>
+    <code_fil>GINF</code_fil>
+    <niveau>1</niveau>
+    <moyenne>14</moyenne>
+    <id>1</id>
+  </moyenne>
+  <moyenne opr="delete" timestamp="2023-04-07 15:53:37.474">
+    <code_eleve>ELE2</code_eleve>
+    <code_fil>GINF</code_fil>
+    <niveau>1</niveau>
+    <moyenne>16</moyenne>
+    <id>2</id>
+  </moyenne>
+  <moyenne opr="delete" timestamp="2023-04-07 15:53:46.618">
+    <code_eleve>ELE3</code_eleve>
+    <code_fil>GSTR</code_fil>
+    <niveau>1</niveau>
+    <moyenne>11.5</moyenne>
+    <id>3</id>
+  </moyenne>
+  <moyenne opr="delete" timestamp="2023-04-07 15:53:46.654">
+    <code_eleve>ELE4</code_eleve>
+    <code_fil>GSTR</code_fil>
+    <niveau>1</niveau>
+    <moyenne>13</moyenne>
+    <id>4</id>
+  </moyenne>
+</moyennes>

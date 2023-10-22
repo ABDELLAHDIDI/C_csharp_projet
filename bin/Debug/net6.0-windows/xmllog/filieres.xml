@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<filieres>
+  <filiere opr="insert" timestamp="2023-04-07 16:49:07.496">
+    <code>test</code>
+    <designation>genie informatique</designation>
+    <id>8</id>
+  </filiere>
+  <filiere opr="insert" timestamp="2023-04-08 08:07:46.726">
+    <code>Cycle</code>
+    <designation>Cycle ingénieur </designation>
+    <id>9</id>
+  </filiere>
+</filieres>
